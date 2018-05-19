@@ -1,0 +1,24 @@
+body{
+	background-color: #D3E3FF;
+}
+.main_page{
+	font-family: Verdana;
+}
+
+h2, h3{
+	font-family: Tahoma;
+	color: #9400FF;
+}
+
+b{
+	color: #939CEA;
+}
+
+a{
+	color: #EA00FF;
+}
+
+img{
+	height: 280px;
+	overflow-y: hidden;
+}
